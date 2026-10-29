@@ -4,4 +4,6 @@ Right now in this program, you can store cloud data types!!! Each cloud type has
 You can then tell the code to read the cloud data you've given it, and it will give you a brief synopsis of the current conditions and possible future weather
 It's very basic right now
 Expect more updates!!! Values are subjected to change
-Download these 2 files and run WeatherProgram.exe
+Download the release.zip file and unzip!! then run Weather.Program.exe
+Theres some leftover data I have in there lawl, I forgot to erase it
+So when you run the program, just erase that data 
